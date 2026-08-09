@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/portrait?username=xFabiian&theme=aurora&v=sync-intro-4&style=terminal&mode=dark" alt="xFabiian portrait banner" width="100%" />
+<img src="https://www.gitskins.com/api/section/portrait?username=xFabiian&theme=aurora&v=sync-intro-4&style=terminal&mode=dark" alt="xFabiian portrait banner" width="220" />
 
 <img src="https://www.gitskins.com/api/section/wordmark?username=xFabiian&theme=aurora&v=sync-intro-4&style=terminal&mode=dark" alt="xFabiian wordmark" width="100%" />
 
@@ -48,9 +48,9 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xFabiian)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xFabiian)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xFabiian)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/ttlookup.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ttlookup.com)
 
 </div>
 
@@ -58,6 +58,6 @@
 
 <div align="center">
 
-*Thanks for visiting my profile! ⭐ Feel free to check out my pinned repos below.*
+*Danke fürs Vorbeischauen! ⭐ Schau dir gerne meine gepinnten Repos an.*
 
 </div>
