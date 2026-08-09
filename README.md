@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/portrait?username=xFabiian&theme=aurora&v=sync-intro-4&style=terminal&mode=dark" alt="xFabiian portrait banner" width="220" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4145A&height=180&section=header&text=xFabiian&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="xFabiian banner" width="100%" />
 
-<img src="https://www.gitskins.com/api/section/wordmark?username=xFabiian&theme=aurora&v=sync-intro-4&style=terminal&mode=dark" alt="xFabiian wordmark" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1BFFFF&center=true&vCenter=true&width=440&lines=whoami+%3D+xFabiian;status%3A+online" alt="typing terminal" />
 
 </div>
 
@@ -10,11 +10,10 @@
 
 ## 👋 About Me
 
-- 🔭 Currently working on **[project name]**
-- 🌱 Currently learning **[technology / skill]**
-- 💬 Ask me about **[your expertise]**
-- 📫 Reach me at **[email or contact link]**
-- ⚡ Fun fact: **[something fun about you]**
+- 🔭 Currently working on **[ttlookup.com](https://ttlookup.com)** — a TikTok-focused website
+- 💬 Ask me about **TikTok exploits** — known on TikTok as **@mqh**
+- 📫 Reach me on **Discord**
+- 🧑‍💻 Languages I build with: **Python, C++, C#, JavaScript**
 
 <br/>
 
@@ -22,12 +21,10 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
