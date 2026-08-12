@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/portrait?username=xFabiian&theme=aurora&v=sync-intro-4&style=terminal&mode=dark" alt="xFabiian portrait banner" width="100%" />
 
 <img src="https://www.gitskins.com/api/section/wordmark?username=xFabiian&theme=aurora&v=sync-intro-4&style=terminal&mode=dark" alt="xFabiian wordmark" width="100%" />
 
